@@ -1,0 +1,14 @@
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\Lab07_Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\Lab07_Ex04.AssemblyInfoInputs.cache
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\Lab07_Ex04.AssemblyInfo.cs
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\Lab07_Ex04.csproj.CoreCompileInputs.cache
+C:\LAB7\Lab07_Ex04\bin\Debug\net7.0\Lab07_Ex04.exe
+C:\LAB7\Lab07_Ex04\bin\Debug\net7.0\Lab07_Ex04.deps.json
+C:\LAB7\Lab07_Ex04\bin\Debug\net7.0\Lab07_Ex04.runtimeconfig.json
+C:\LAB7\Lab07_Ex04\bin\Debug\net7.0\Lab07_Ex04.dll
+C:\LAB7\Lab07_Ex04\bin\Debug\net7.0\Lab07_Ex04.pdb
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\Lab07_Ex04.dll
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\refint\Lab07_Ex04.dll
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\Lab07_Ex04.pdb
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\Lab07_Ex04.genruntimeconfig.cache
+C:\LAB7\Lab07_Ex04\obj\Debug\net7.0\ref\Lab07_Ex04.dll
